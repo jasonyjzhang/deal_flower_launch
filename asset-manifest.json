@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deal_flower_launch/static/css/main.d1c3cc06.css",
+    "main.js": "/deal_flower_launch/static/js/main.b54b5411.js",
+    "static/media/landing.png": "/deal_flower_launch/static/media/landing.2a7e357b5c6b6991c3ad.png",
+    "static/media/logo.svg": "/deal_flower_launch/static/media/logo.9da8bed1e8052c78aaddf02b8821f52a.svg",
+    "index.html": "/deal_flower_launch/index.html",
+    "main.d1c3cc06.css.map": "/deal_flower_launch/static/css/main.d1c3cc06.css.map",
+    "main.b54b5411.js.map": "/deal_flower_launch/static/js/main.b54b5411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c3cc06.css",
+    "static/js/main.b54b5411.js"
+  ]
+}
